@@ -16,7 +16,7 @@ if answer == 8:
     answer = int(input("answer here: "))
 else:
     pass
-if answer == 132:
+if answer == 144:
     print("you are really smart!")
 else:
     pass
