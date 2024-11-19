@@ -8,5 +8,6 @@ for key,value in student_data.items():
         result[key]=value
 
 print(result)
+
         
     
