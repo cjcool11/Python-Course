@@ -1,3 +1,4 @@
+#Teacher, if you are here i have to tell you that the project is in the "spaceinvadershomework" folder...
 import math
 import pygame
 import random
