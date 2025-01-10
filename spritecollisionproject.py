@@ -11,7 +11,7 @@ font_size = 72
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Sprite Color Change")
 
-background_image = pygame.transform.scale(pygame.image.load("backgroundforpython.avif"), (screen_width, screen_height))
+background_image = pygame.transform.scale(pygame.image.load("backgroundforpython2.png"), (screen_width, screen_height))
 
 Font = pygame.font.SysFont("Times New Roman", font_size)
 
