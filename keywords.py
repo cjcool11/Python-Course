@@ -8,7 +8,7 @@ for i in word:
         print("your word does not have an a")    
 
 
-#number = int(input("write a number: "))
+number = int(input("write a number: "))
 
 for number in range(30):
     if number % 20 == 0:
